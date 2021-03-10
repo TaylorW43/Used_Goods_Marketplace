@@ -9,17 +9,17 @@ For this team Project, we implement using the following order:
 2. Construct static website(skeleton) using HTML, CSS, Bootstrap and JavaScript.
 3. Implement dynamic website using PHP, JavaScript and MySQL with following
     functionalities:
-      ▪ A buyer should be able to login/sign up to his/her account.
-      ▪ A seller should be able to login/sign up to his/her account.
-      ▪ A seller can add/edit the items with corresponding information and pictures.
-      ▪ A seller/buyer can filter products in the index page.
-      ▪ A buyer can view item detail by clicking on the product.
-      ▪ A buyer can add items to his/her cart.
-      ▪ A buyer can remove items from his/her cart.
-      ▪ A buyer can check out items from his/her cart.
-      ▪ A buyer can view their own order history.
-      ▪ Login credential/card information from seller/buyer are encrypted in DB.
-      ▪ All the user interaction errors should be handled properly.
+      * A buyer should be able to login/sign up to his/her account.
+      * A seller should be able to login/sign up to his/her account.
+      * A seller can add/edit the items with corresponding information and pictures.
+      * A seller/buyer can filter products in the index page.
+      * A buyer can view item detail by clicking on the product.
+      * A buyer can add items to his/her cart.
+      * A buyer can remove items from his/her cart.
+      * A buyer can check out items from his/her cart.
+      * A buyer can view their own order history.
+      * Login credential/card information from seller/buyer are encrypted in DB.
+      * All the user interaction errors should be handled properly.
       
 Reference:
 [1] Thalheim, Bernhard. (1993). Database Design Strategies. 267-285. 10.1007/978-3-7091-2704-9_14. https://www.researchgate.net/publication/220785807_Database_Design_Strategies
